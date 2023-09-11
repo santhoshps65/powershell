@@ -1,0 +1,2 @@
+az group list -o table
+az group create --name (name) --loction eastus	
